@@ -26,7 +26,8 @@
 <!-- 在这里添加你的项目，例如： -->
 1. [lx-ikun-music-sources](https://github.com/Macrohard0001/lx-ikun-music-sources)
 2. [Random_Choice_Plus_3](https://github.com/Macrohard0001/Random_Choice_Plus_3)
-3. [Awesome_OpenGL_Render_Engine)](https://github.com/Macrohard0001/Awesome_OpenGL_Render_Engine)
+3. [Awesome_OpenGL_Render_Engine](https://github.com/Macrohard0001/Awesome_OpenGL_Render_Engine)
+4. [Pychat_P2Pversion](https://github.com/Macrohard0001/pychat_P2Pversion)
 
 ## 📫 How to reach me
 - GitHub: [@Macrohard0001](https://github.com/Macrohard0001)
