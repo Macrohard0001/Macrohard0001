@@ -19,7 +19,7 @@
 
 ## 🚀 My Skills
 - **语言**: Python, vbs (little)
-- **Frameworks**: 
+- **Frameworks**: None :(
 - **Tools**: Thonny, VS Code, Pycharm
 
 ## 📂 My Projects
