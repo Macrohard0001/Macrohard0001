@@ -106,6 +106,6 @@
 ⭐️ **From** [Macrohard0001](https://github.com/Macrohard0001)
 
 <!-- 贪吃蛇动画 -->
-<img src="https://raw.githubusercontent.com/Macrohard0001/Macrohard0001/output/snake-ocean.svg" alt="GitHub Contribution Snake" />
+![Snake animation](https://raw.githubusercontent.com/Macrohard0001/Macrohard0001/output/github-contribution-grid-snake.svg)
 
 </div>
