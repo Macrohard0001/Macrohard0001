@@ -106,6 +106,6 @@
 ⭐️ **From** [Macrohard0001](https://github.com/Macrohard0001)
 
 <!-- 贪吃蛇动画 -->
-<img src="https://raw.githubusercontent.com/Macrohard0001/Macrohard0001/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+<img src="https://github-profile-snake.vercel.app/github-user?user=Macrohard0001&theme=github-dark" alt="GitHub Snake Animation" />
 
 </div>
