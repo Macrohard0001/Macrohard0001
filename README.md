@@ -19,11 +19,16 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macrohard0001&include_all_commits=true&show_icons=true&count_private=true&locale=cn&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79,73FDFF,D783FF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Macrohard0001)
+### GitHub 统计
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Macrohard0001&theme=vue" alt="Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Macrohard0001&theme=vue" alt="Productive Time" width="49%" />
 
-[![Streak Stats](https://streak-stats.demolab.com?user=Macrohard0001&theme=tokyonight&hide_border=true&border_radius=5&locale=zh_Hans&card_width=700)](https://github.com/Macrohard0001)
+### 最常用语言
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Macrohard0001&theme=vue" alt="Repos per Language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Macrohard0001&theme=vue" alt="Most Commit Language" width="49%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macrohard0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A9D8F&text_color=C9D1D9" />
+### 贡献统计
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Macrohard0001&theme=vue" alt="Profile Details" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Macrohard0001&theme=tokyo-night&bg_color=0D1117&color=2A9D8F&line=64FFDA&point=C9D1D9&area=true&hide_border=true" />
 
