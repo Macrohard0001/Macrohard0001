@@ -61,10 +61,10 @@
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
-| [lx-ikun-music-sources](https://github.com/Macrohard0001/lx-ikun-music-sources) | 音乐资源整理与分享项目 | None |
-| [Random_Choice_Plus_3](https://github.com/Macrohard0001/Random_Choice_Plus_3) | 增强版随机选择工具 | Python, GUI |
-| [Awesome_OpenGL_Render_Engine](https://github.com/Macrohard0001/Awesome_OpenGL_Render_Engine) | OpenGL渲染引擎学习项目 | Python, OpenGL |
-| [Pychat_P2Pversion](https://github.com/Macrohard0001/pychat_P2Pversion) | 点对点聊天应用 | Python, Socket编程 |
+| [lx-ikun-music-sources](https://github.com/Macrohard0001/lx-ikun-music-sources) | lx音源整理与分享项目 | None |
+| [Random_Choice_Plus_3](https://github.com/Macrohard0001/Random_Choice_Plus_3) | 增强版随机点名工具 | Python, GUI |
+| [Awesome_OpenGL_Render_Engine](https://github.com/Macrohard0001/Awesome_OpenGL_Render_Engine) | OpenGL轻量渲染引擎（游戏&应用两用） | Python, OpenGL |
+| [Pychat_P2Pversion](https://github.com/Macrohard0001/pychat_P2Pversion) | 点对点聊天应用（无需公网服务器） | Python, Socket编程 |
 
 ---
 
