@@ -71,7 +71,11 @@
 ## 🏆 GitHub 成就
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Macrohard0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Macrohard0001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Macrohard0001&query=public_repos&label=Repos&color=blue" alt="GitHub Repos" />
 </div>
 
 ---
