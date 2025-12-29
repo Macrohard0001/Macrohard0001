@@ -2,9 +2,14 @@
 
 # Hi there! I'm Macrohard0001 😊
 
+</div>
+
 ### 关于捐赠
 本人目前所有项目为纯公益，但是开发/收集整理不易，所以如果你觉得好用，可以进行捐赠（Buy me a coffee? Or else...）
+
 捐赠请点[这里](https://macrohard0001.github.io/donate.html)跳转详细信息（请放心，自己的GitHub静态页面，而且不含广告）
+
+---
 
 ### 🎯 我正在寻求合作伙伴  
 **有意者请** [![邮箱联系](https://img.shields.io/badge/邮箱联系-Macrohard0001_m01@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Macrohard0001_m01@outlook.com)
